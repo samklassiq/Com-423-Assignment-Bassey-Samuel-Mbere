@@ -1,0 +1,29 @@
+COM 423 Assignment
+EXPERTS SYSTEM/ MACHINE LEARNING
+NAME: BASSEY SAMUEL MBERE
+REG NO: 2021/HND/34423/CS
+1. What's the AI equivalent of the five sense organs?
+Answer
+AI technologies inspired by the five human senses are often designed to replicate or enhance human sensory capabilities. Here are a few examples:
+NOSE
+1. Olfactory Sensors: While less common, there are efforts to create AI systems that replicate the sense of smell using chemical sensors. These can have applications in quality control and environmental monitoring.
+EAR
+2. Speech Recognition: Inspired by the human sense of hearing, speech recognition technology allows computers to convert spoken language into text. Voice assistants like Siri and Alexa use this technology.
+EYE
+3. Computer Vision: Inspired by the human eye, computer vision is a field of AI that enables machines to interpret and understand visual information from the environment. It's used in applications like facial recognition, object detection, and image analysis.
+SKIN
+3. Haptic Technology: Inspired by the sense of touch, haptic feedback in AI allows devices to provide tactile feedback to users. This is commonly used in virtual reality controllers and touchscreen devices to simulate touch sensations.
+TONGUE
+4. Gustatory AI: AI systems can also simulate the sense of taste, which is used in areas like food quality assessment and flavor profiling.
+
+3. Distinguish between Knowledge base and Database Answer
+Database:
+A database is primarily designed for structured data storage and retrieval. It stores data, often organized in tables, and allows for efficient data management and retrieval.
+WHILE
+Knowledge Base: A knowledge base, on the other hand, is designed to store information and knowledge in a more human-readable and understandable format. It typically contains a wide range of information, including text, documents, articles, and potentially multimedia content. Its primary purpose is to provide information and knowledge to users.
+3. Search for online medical expert system that will be able to run diagnostic tests. Answer
+CODY.MD
+CodyMD is a research project aimed at creating AI Co-Doctors that are both safe and efficient. Please note that CodyMD does not offer medical advice or healthcare services and should always be utilized in conjunction with a qualified healthcare professional. It is important to review the Terms of Use before proceeding.
+WebMD
+WebMD is a user-friendly online platform that serves as a self-service symptom checker thoughtfully developed by medical professionals. It caters to individuals seeking to expand their understanding of their symptoms, identify potential underlying reasons for these symptoms, receive recommendations on the appropriate steps to take, or simply equip themselves with more knowledge ahead of their medical
+consultation
